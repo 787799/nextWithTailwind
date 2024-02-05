@@ -1,0 +1,15 @@
+export const LatestNews = [
+  "Science Samachar: Scientific Discoveries in India",
+  "Sports Sanket: The Latest in Indian Sports",
+  "Political Pravritti: Political Developments and Debates",
+  "Travel Trails: India's Tourism and Exploration",
+  "Education Express: Updates on Indian Learning",
+  "Local Lahar: Regional News and Community Events,",
+  "Foodie Fiesta: Culinary Delights from India",
+  "Mind Mantra: Mental Health and Well-being Insights",
+  "Railway Report: Indian Transportation News",
+  "Historical Heritage: Stories from India's Past",
+  //   "Green Growth: Environmental News in India",
+  //   "Cinema Samachar: Bollywood and Beyond",
+  //   "Monsoon Melodies: Weather and Natural Phenomena",
+];
